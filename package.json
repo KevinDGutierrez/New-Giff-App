@@ -1,0 +1,26 @@
+{
+  "name": "giphy-studio-|-diseño-inteligente",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "bootstrap": "^5.3.8",
+    "lucide-react": "^0.562.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.1",
+    "@eslint/js": "^9.39.2",
+    "globals": "^17.0.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.26"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Giphy Studio | Diseño Inteligente",
+  "description": "Una aplicación de búsqueda de GIFs con una estética moderna, minimalista y elegante inspirada en Squarespace. Utiliza Tailwind CSS, Lucide Icons y la API de Giphy.",
+  "requestFramePermissions": []
+}
